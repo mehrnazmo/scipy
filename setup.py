@@ -13,7 +13,6 @@ but powerful enough to be depended upon by some of the world's
 leading scientists and engineers. If you need to manipulate
 numbers on a computer and display or publish the results,
 give SciPy a try!
-
 """
 
 DOCLINES = (__doc__ or '').split("\n")
